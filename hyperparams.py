@@ -1,3 +1,4 @@
+import tensorflow as tf
 from hparam import HParams
 from text import symbols
 
